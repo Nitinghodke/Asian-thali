@@ -1,0 +1,38 @@
+body{
+  box-sizing: border-box;
+  color: black;
+  text-transform: uppercase;
+}
+
+ 
+.home{
+  height: 100vh;
+  width: 100vw;
+  text-align: center;
+  color: black;
+}
+.home h1{
+  color: firebrick;
+  text-align: center;
+  font-weight: bolder;
+  font-size: 70px;
+  padding-top: 90px;
+}
+.home h2{
+  color: rgb(39, 29, 29);
+  font-size: 50px;
+  text-align: center;
+}
+.home button{
+  outline: none;
+  margin-top: 20px;
+  border: 2px solid rgb(245, 172, 143);
+background-color: rgb(2, 17, 13);
+border-radius: 5px;
+color: rgb(230, 173, 173);
+}
+ 
+.img_tag{
+  border: 2px solid rgb(146, 141, 141);
+  border-radius: 5px;
+}
